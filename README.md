@@ -2,9 +2,9 @@
 
 This project implements a robust cascade PID control system for an autonomous quadcopter simulation using the MuJoCo physics engine. The drone navigates through a sequence of gates (including rotated ones) and maintains stability under stochastic wind conditions.
 
-[Uploading demo.webm…]()
+[demo.webm](https://github.com/user-attachments/assets/9b4b3b7a-5362-4a17-8a65-9ae9b8fe08c0)
 
-##Key Features
+## Key Features
 
 * **Cascade PID Control:** Separate loops for Position (Outer) and Attitude (Inner) stabilization.
 * **Robust Navigation:** Implemented "Nose-in" orientation logic — the drone always faces its flight direction.
